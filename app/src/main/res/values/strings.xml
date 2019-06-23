@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="prashant_prompt">select label></string>
+    <string-array name="socialsites_array">
+        <item>facebook</item>
+        <item>google</item>
+        <item>instagram</item>
+        <item>twitter</item>
+        <item></item>
+    </string-array>
+</resources>
